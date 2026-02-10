@@ -27,7 +27,7 @@ export const MY_STACK = {
     database: [
         { name: 'PostgreSQL', icon: '/logo/postgreSQL.png' },
         { name: 'MongoDB', icon: '/logo/mongodb.svg' },
-        { name: 'Prisma', icon: '/logo/prisma.png' },
+        { name: 'Prisma', icon: '/logo/prisma.svg' },
     ],
     tools: [
         { name: 'Git', icon: '/logo/git.png' },
